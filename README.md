@@ -1,5 +1,12 @@
-<h1 align="center">👋 Hi, I'm Ilia Vatanzadeh</h1>
-<h3 align="center">Backend Developer | Freelancer</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> 
+  Hi, I'm Ilia Vatanzadeh
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=500&color=6FDA44&center=true&vCenter=true&width=500&lines=Backend+Developer;Freelancer;PHP+%26+JavaScript+Lover;Symfony+Learner;Always+learning%2C+always+building" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -12,6 +19,11 @@
 
 ### 🚀 About Me
 
+```html
+<table align="center">
+<tr>
+<td width="50%">
+  
 - 👨‍💻 I'm a **Backend Developer** & **Freelancer**
 - 🔧 I build robust APIs with **PHP**, **JavaScript** & **MySQL**
 - 🌱 Currently diving deep into **Symfony Framework**
@@ -19,51 +31,9 @@
 - 🎯 **Always learning, always building**
 - 📌 Open for collaboration & freelance projects
 
----
-
-### 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | PHP, JavaScript, HTML, CSS |
-| **Databases** | MySQL |
-| **Frameworks** | Symfony (learning), Laravel (soon) |
-| **Tools** | Git, GitHub, VS Code, Composer, NPM |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliavatanzadeh&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliavatanzadeh&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliavatanzadeh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/iliavatanzadeh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🎯 Fun Fact
-
-> "Always learning, always building" 🚀
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iliavatanzadeh&color=blueviolet" alt="Profile Views" />
-</p>
+</td>
+<td width="50%">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
