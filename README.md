@@ -1,5 +1,5 @@
-<h1 align="center">👋 سلام، من ایلیا هستم</h1>
-<h3 align="center">توسعه‌دهنده بک‌اند | فریلنسر</h3>
+<h1 align="center">👋 Hi, I'm Ilia Vatanzadeh</h1>
+<h3 align="center">Backend Developer | Freelancer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -10,50 +10,60 @@
 
 ---
 
-### 🚀 درباره من
+### 🚀 About Me
 
-- 👨‍💻 من یک **توسعه‌دهنده بک‌اند** و **فریلنسر** هستم.
-- 🔧 با **PHP**، **JavaScript** و **MySQL** APIهای قدرتمند می‌سازم.
-- 🌱 در حال یادگیری عمیق **فریم‌ورک Symfony** هستم.
-- ⚡ به کد تمیز و راه‌حل‌های مقیاس‌پذیر علاقه دارم.
-- 🎯 همیشه در حال یادگیری و ساختن هستم.
-- 📌 برای همکاری و پروژه‌های فریلنسری آماده‌ام.
-
----
-
-### 🛠️ تکنولوژی‌ها
-
-| دسته‌بندی | تکنولوژی‌ها |
-|----------|------------|
-| **زبان‌ها** | PHP, JavaScript, HTML, CSS |
-| **پایگاه داده** | MySQL |
-| **فریم‌ورک‌ها** | Symfony (در حال یادگیری), Laravel (به زودی) |
-| **ابزارها** | Git, GitHub, VS Code, Composer, NPM |
+- 👨‍💻 I'm a **Backend Developer** & **Freelancer**
+- 🔧 I build robust APIs with **PHP**, **JavaScript** & **MySQL**
+- 🌱 Currently diving deep into **Symfony Framework**
+- ⚡ Passionate about clean code & scalable solutions
+- 🎯 **Always learning, always building**
+- 📌 Open for collaboration & freelance projects
 
 ---
 
-### 📈 آمار گیت‌هاب
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | PHP, JavaScript, HTML, CSS |
+| **Databases** | MySQL |
+| **Frameworks** | Symfony (learning), Laravel (soon) |
+| **Tools** | Git, GitHub, VS Code, Composer, NPM |
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iliavatanzadeh&show_icons=true&theme=radical" alt="آمار گیت‌هاب" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iliavatanzadeh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliavatanzadeh&theme=radical" alt="نوار فعالیت" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliavatanzadeh&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliavatanzadeh&layout=compact&theme=radical" alt="زبان‌های پرکاربرد" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliavatanzadeh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 🎯 حرف آخر
+### 🤝 Let's Connect
 
-> "همیشه در حال یادگیری، همیشه در حال ساختن" 🚀
+<p align="center">
+  <a href="https://github.com/iliavatanzadeh">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎯 Fun Fact
+
+> "Always learning, always building" 🚀
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iliavatanzadeh&color=blueviolet" alt="بازدیدکنندگان" />
+  <img src="https://komarev.com/ghpvc/?username=iliavatanzadeh&color=blueviolet" alt="Profile Views" />
 </p>
